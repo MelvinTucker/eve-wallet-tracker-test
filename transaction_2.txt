@@ -1,0 +1,1 @@
+Transaction 2: DeepTestWalletUser, sale, 5000000.0 ISK
