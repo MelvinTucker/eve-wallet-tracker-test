@@ -1,0 +1,1 @@
+Transaction 1: Full_Test_Pilot, sale, 500000000.0 ISK
