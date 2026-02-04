@@ -1,0 +1,1 @@
+Transaction 3: QA_Wallet_User, purchase, 2500000.0 ISK
